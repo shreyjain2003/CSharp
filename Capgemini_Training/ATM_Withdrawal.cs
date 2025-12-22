@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Represents a simple console-based ATM withdrawal simulation that prompts the user for card insertion, PIN entry,
+    /// and withdrawal amount, and displays the transaction result.
+    /// </summary>
+    /// <remarks>This class demonstrates basic ATM withdrawal logic for educational purposes. It simulates
+    /// user interaction via the console and does not connect to any real banking systems. The account balance, PIN, and
+    /// other values are hardcoded for demonstration.</remarks>
         class ATM_Withdrawal
         {
             static void Main(string[] args)

@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application for generating and displaying the Fibonacci series up to a specified number of
+    /// terms.
+    /// </summary>
+    /// <remarks>This class is intended to be used as a standalone program. It prompts the user for input and
+    /// outputs the Fibonacci sequence to the console. The class is not intended for use as a library
+    /// component.</remarks>
     public class Fibonacci_Series
     {
         static void Main()

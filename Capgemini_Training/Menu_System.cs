@@ -6,6 +6,14 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a simple console-based menu system for performing basic arithmetic operations, including addition,
+    /// subtraction, multiplication, and division.
+    /// </summary>
+    /// <remarks>The menu prompts the user to select an operation and enter two integer values. The program
+    /// continues to display the menu until the user chooses to exit. Division by zero is not permitted and will result
+    /// in an error message. This class is intended for demonstration or educational purposes and is designed to be run
+    /// as a console application.</remarks>
     class Menu_System
     {
         static void Main(string[] args)

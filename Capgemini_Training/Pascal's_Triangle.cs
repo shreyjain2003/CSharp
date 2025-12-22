@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application that displays Pascal's Triangle up to a specified number of rows entered by the
+    /// user.
+    /// </summary>
+    /// <remarks>This class is intended to be run as a standalone application. The program prompts the user to
+    /// enter the number of rows and then prints Pascal's Triangle in a formatted manner to the console. Input must be a
+    /// valid non-negative integer; otherwise, a runtime exception may occur.</remarks>
     class Pascals_Triangle
     {
         static void Main(string[] args)

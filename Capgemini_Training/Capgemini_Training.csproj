@@ -49,7 +49,7 @@
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup>
-    <StartupObject>Capgemini_Training.Factorial_LargeNumbers</StartupObject>
+    <StartupObject>Capgemini_Training.Program4</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -67,6 +67,13 @@
     <Compile Include="Armstrong_Number.cs" />
     <Compile Include="ATM_Withdrawal.cs" />
     <Compile Include="Binary_to_Decimal.cs" />
+    <Compile Include="Competition.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="FamilyDefination.cs" />
+    <Compile Include="Program2.cs" />
+    <Compile Include="Program3.cs" />
+    <Compile Include="Program4.cs" />
+    <Compile Include="Student1.cs" />
     <Compile Include="Continue_Usage.cs" />
     <Compile Include="Diamond_Pattern.cs" />
     <Compile Include="Electricity_Bill.cs" />
@@ -82,6 +89,7 @@
     <Compile Include="Pascal%27s_Triangle.cs" />
     <Compile Include="Prime_Number.cs" />
     <Compile Include="Profit_and_Loss.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Quadrant_Finder.cs" />
     <Compile Include="Quadratic_Equation.cs" />
@@ -96,6 +104,7 @@
     <Compile Include="Vowel_Or_Consonant.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include=".editorconfig" />
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>

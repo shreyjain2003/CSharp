@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Demonstrates the use of the 'continue' statement in a loop by printing numbers from 1 to 50, skipping multiples
+    /// of 3.
+    /// </summary>
+    /// <remarks>This example shows how the 'continue' statement can be used to skip specific iterations
+    /// within a for loop. Only numbers that are not multiples of 3 are printed to the console.</remarks>
     class Continue_Example
     {
         static void Main(string[] args)

@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application that determines whether a user-entered character is a vowel or a consonant.
+    /// </summary>
+    /// <remarks>This class is intended for demonstration or educational purposes and is not designed for use
+    /// as a reusable library component.</remarks>
     class Vowel_Or_Consonant
     {
         static void Main(string[] args)

@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a simple command-line calculator for performing basic arithmetic operations on two numbers.
+    /// </summary>
+    /// <remarks>The calculator supports addition, subtraction, multiplication, and division. Input is read
+    /// from the console, and results are displayed to the user. Division by zero is handled with an error
+    /// message.</remarks>
     class SimpleCalculator
     {
         static void Main(string[] args)

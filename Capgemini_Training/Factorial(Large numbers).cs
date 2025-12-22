@@ -9,6 +9,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application for calculating the factorial of a user-specified integer, supporting large
+    /// numbers using arbitrary-precision arithmetic.
+    /// </summary>
+    /// <remarks>This class demonstrates the use of the BigInteger type to compute factorials that exceed the
+    /// range of standard integer types. The application prompts the user for input and displays the result in the
+    /// console. Intended for educational and demonstration purposes.</remarks>
     class Factorial_LargeNumbers
     {
         static void Main(string[] args)

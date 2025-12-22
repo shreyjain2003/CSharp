@@ -2,7 +2,9 @@
 
 namespace Capgemini_Training
 {
-    // Class to determine the type of triangle
+    /// <summary>
+    /// Class to determine the type of triangle
+    /// </summary>
     public class Triangle_Type
     {
         // Main method: Program execution starts here

@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application that converts a binary number, entered as a string, to its decimal equivalent.
+    /// </summary>
+    /// <remarks>This class is intended to be run as a standalone application. It prompts the user to input a
+    /// binary number and displays the corresponding decimal value. Input validation is not performed; entering invalid
+    /// binary strings may result in incorrect output or runtime errors.</remarks>
     class BinaryToDecimal
     {
         static void Main(string[] args)

@@ -6,9 +6,20 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// This Program checks the eligibility of a student for admission based on their marks in Mathematics, Physics, and Chemistry.
+    /// </summary>
     public class Admission_Eligibility
     {
-        static void Main(string[] args)
+        /// <summary>
+        /// Serves as the entry point for the application, evaluating a student's eligibility for admission based on
+        /// input marks in Mathematics, Physics, and Chemistry.
+        /// </summary>
+        /// <remarks>The method prompts the user to enter marks for Mathematics, Physics, and Chemistry
+        /// via the console. Eligibility is determined according to specified criteria and the result is displayed to
+        /// the user.</remarks>
+        /// <param name="args">An array of command-line arguments. This parameter is not used.</param>
+        static void Main(string[] args)   
         {
             Console.WriteLine("Enter marks in Mathematics, Physics and Chemistry respectively:");
             int Math=int.Parse(Console.ReadLine());

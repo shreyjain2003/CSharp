@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides an entry point for a console application that reads an integer from the user, displays its reverse, and
+    /// indicates whether the number is a palindrome.
+    /// </summary>
+    /// <remarks>A palindrome number is a number that remains the same when its digits are reversed. This
+    /// application prompts the user to enter a number, computes its reverse, and determines if the original and
+    /// reversed numbers are equal.</remarks>
     class Reverse_Palindrome
     {
         static void Main(string[] args)

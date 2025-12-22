@@ -7,6 +7,12 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application for calculating the digital root of a user-entered integer.
+    /// </summary>
+    /// <remarks>The digital root is obtained by repeatedly summing the digits of a number until a
+    /// single-digit value is produced. This class is intended for use as a standalone application and is not designed
+    /// to be used as a library or instantiated from other code.</remarks>
     class Digital_Root
     {
         static void Main(string[] args)

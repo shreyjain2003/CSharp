@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Represents a simple console-based number guessing game where the user attempts to guess a predefined secret
+    /// number.
+    /// </summary>
+    /// <remarks>The game prompts the user to guess a number within a specified range and provides feedback
+    /// after each attempt until the correct number is guessed. This class is intended to be run as a standalone
+    /// application and demonstrates basic input/output and control flow in a console environment.</remarks>
     class Guessing_Game
     {
         static void Main(string[] args)

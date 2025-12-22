@@ -9,6 +9,11 @@ namespace Capgemini_Training
 {
     class GCD_LCM
     {
+        /// <summary>
+        /// Serves as the entry point for the application. Prompts the user to enter two integers, then calculates and
+        /// displays their greatest common divisor (GCD) and least common multiple (LCM).
+        /// </summary>
+        /// <param name="args">An array of command-line arguments. This parameter is not used.</param>
         static void Main(string[] args)
         {
             // Take first number input

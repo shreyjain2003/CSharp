@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application for determining whether a user-supplied integer is a prime number.
+    /// </summary>
+    /// <remarks>This class contains the application's entry point and prompts the user to enter a number via
+    /// the console. It then evaluates whether the entered value is a prime number and displays the result. The class is
+    /// intended for demonstration or educational purposes and is not designed for use as a reusable library
+    /// component.</remarks>
     class Prime_Number
     {
         static void Main(string[] args)

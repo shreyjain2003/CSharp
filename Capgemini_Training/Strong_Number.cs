@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides an entry point for determining whether a user-input number is a Strong Number.
+    /// </summary>
+    /// <remarks>A Strong Number is a number for which the sum of the factorials of its digits equals the
+    /// number itself. This class prompts the user to enter a number via the console and outputs whether the entered
+    /// number is a Strong Number. This class is intended for demonstration and console-based interaction.</remarks>
     class Strong_Number
     {
         static void Main(string[] args)

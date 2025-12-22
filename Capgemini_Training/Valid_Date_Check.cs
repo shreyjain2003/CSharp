@@ -6,6 +6,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides functionality to validate whether a given day, month, and year constitute a valid calendar date.
+    /// </summary>
+    /// <remarks>This class prompts the user to enter a day, month, and year, and determines if the input
+    /// represents a valid date, taking leap years into account. The validation logic checks for valid ranges of months
+    /// and days, and adjusts for leap years when evaluating February. The result is displayed to the user via the
+    /// console.</remarks>
         class Valid_Date_Check
         {
             static void Main(string[] args)

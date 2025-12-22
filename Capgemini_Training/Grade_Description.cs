@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Represents a console application that displays a descriptive message based on a user-entered letter grade.
+    /// </summary>
+    /// <remarks>The application prompts the user to enter a single character representing a grade (E, V, G,
+    /// A, or F) and outputs the corresponding description. If an invalid grade is entered, an error message is
+    /// displayed. The input is case-insensitive.</remarks>
         class Grade_Description
         {
             static void Main(string[] args)

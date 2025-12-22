@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Represents a console-based implementation of the Rock, Paper, Scissors game for two players.
+    /// </summary>
+    /// <remarks>This class provides an interactive game where two players enter their choices, and the winner
+    /// is determined based on standard Rock, Paper, Scissors rules. The application prompts each player for input and
+    /// displays the result in the console. Input is case-insensitive, but only the exact words "rock", "paper", or
+    /// "scissors" are valid choices.</remarks>
     class Rock_Paper_Scissors
     {
         static void Main(string[] args)

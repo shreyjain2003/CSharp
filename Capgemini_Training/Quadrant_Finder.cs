@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
-    // Class to determine the quadrant of a point (x, y)
+    /// <summary>
+    /// Class to determine the quadrant of a point (x, y)
+    /// </summary>
     public class Quadrant_Finder
     {
         // Main method: Entry point of the program

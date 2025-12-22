@@ -7,6 +7,13 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides an entry point for generating and displaying a diamond-shaped pattern of asterisks in the console based
+    /// on user input.
+    /// </summary>
+    /// <remarks>This class is intended for demonstration or educational purposes and is typically executed as
+    /// a console application. The user is prompted to enter the number of rows for the upper half of the diamond, and
+    /// the resulting pattern is printed to the standard output.</remarks>
     class Diamond_Pattern
     {
         static void Main(string[] args)

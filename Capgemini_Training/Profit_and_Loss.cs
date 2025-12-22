@@ -7,6 +7,14 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application for calculating and displaying profit or loss based on user-entered cost price
+    /// and selling price values.
+    /// </summary>
+    /// <remarks>The application prompts the user to input the cost price and selling price, then determines
+    /// whether a profit, loss, or neither has occurred. It displays the corresponding percentage to the console. This
+    /// class is intended to be run as a standalone program and is not designed for use as a library
+    /// component.</remarks>
     class Profit_Loss
     {
         static void Main(string[] args)

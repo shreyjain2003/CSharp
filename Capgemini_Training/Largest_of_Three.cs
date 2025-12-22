@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Capgemini_Training
 {
+    /// <summary>
+    /// Provides a console application that prompts the user to enter three integers and displays the largest value.
+    /// </summary>
     public class Largest_of_Three
     {
         static void Main(string[] args)
@@ -17,7 +20,8 @@ namespace Capgemini_Training
             b=int.Parse(Console.ReadLine());
             Console.WriteLine("Enter Third number: ");
             c=int.Parse(Console.ReadLine());
-            if(a>b && a > c)
+            /// Logic to find largest number among three
+            if (a>b && a > c)
             {
                 Console.WriteLine("Largest number is " + a);
             }
