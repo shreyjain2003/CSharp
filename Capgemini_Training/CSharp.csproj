@@ -49,7 +49,7 @@
   </PropertyGroup>
   <PropertyGroup />
   <PropertyGroup>
-    <StartupObject>Abstract_and_Interface</StartupObject>
+    <StartupObject>Capgemini_Training.Day6_Scenarios.JaggedArray</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -101,6 +101,19 @@
     <Compile Include="Day2_Iteration and Conditional Statement\Prime_Number.cs" />
     <Compile Include="Day2_Iteration and Conditional Statement\Profit_and_Loss.cs" />
     <Compile Include="Day3_Oops\Program.cs" />
+    <Compile Include="Day5_Interface_Pratice\Intrface_Program1.cs" />
+    <Compile Include="Day5_Interface_Pratice\MultipleInheritanceExample.cs" />
+    <Compile Include="Day5_Interface_Pratice\Program.cs" />
+    <Compile Include="Day6_Scenarios\Birds.cs" />
+    <Compile Include="Day6_Scenarios\Birds2.cs" />
+    <Compile Include="Day6_Scenarios\ExampleOfCollecttion.cs" />
+    <Compile Include="Day6_Scenarios\FactoryRobotHazardAnalyzer.cs" />
+    <Compile Include="Day6_Scenarios\Flip_Key.cs" />
+    <Compile Include="Day6_Scenarios\GenericsExamples.cs" />
+    <Compile Include="Day6_Scenarios\JaggedArray.cs" />
+    <Compile Include="Day6_Scenarios\PayRollPro.cs" />
+    <Compile Include="Day6_Scenarios\Program_OverfowDatatypes.cs" />
+    <Compile Include="Day6_Scenarios\StreamBuzz.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Day2_Iteration and Conditional Statement\Quadrant_Finder.cs" />
     <Compile Include="Day2_Iteration and Conditional Statement\Quadratic_Equation.cs" />
